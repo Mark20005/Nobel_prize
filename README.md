@@ -6,7 +6,7 @@ The Nobel Foundation has made a dataset available of all prize winners from the 
 
 In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
 
-## Plot 1: Nobel Prize Winners from the United States by Decade**
+## Plot 1: Nobel Prize Winners from the United States by Decade
 ![Plot 1](plots/plot_2024-09-10%2000-20-54_0.png)
 
 **This plot illustrates the proportion of Nobel Prize winners from the `United States` over time, grouped by decade. The x-axis represents different decades, starting from `1900` to `2020`, and the y-axis shows the proportion of Nobel Prize winners (US_winners) in that particular decade. The plot indicates an upward trend in the proportion of US winners from `1900 to 2000`, highlighting the growing prominence of American laureates in various fields over the century.**
